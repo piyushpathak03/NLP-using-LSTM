@@ -1,5 +1,8 @@
 # Fake-New-LSTM
 
+## LSTM
+Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data
+
 ## About me
 
 **Piyush Pathak**
